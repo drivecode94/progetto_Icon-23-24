@@ -1,4 +1,4 @@
-# Progetto Ingegneria della conoscenza A.A. 2022-2023 
+# Progetto Ingegneria della conoscenza A.A. 2023-2024 
 
 **Gruppo di lavoro**
 
